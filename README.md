@@ -7,7 +7,6 @@
 </div> 
 
 * DESENVOLVIMENTO FULL STACK- TURMA 01.23
-* Disciplina: RPG0014  - Iniciando o caminho pelo Java
 
 <hr>
 
