@@ -6,8 +6,9 @@
      <hr>
 </div> 
 
-* DESENVOLVIMENTO FULL STACK- TURMA 01.23
-
-<hr>
-
-* [LUCAS DE OLIVEIRA DOS SANTOS](https://github.com/Lucasph3) - MATRICULA: 2023.03.68846-6
+*   **Aluno:** Lucas de Oliveira dos Santos
+*   **Matrícula:** 202303688466
+*   **Campus:** Monte Castelo
+*   **Curso:** Desenvolvimento Full-Stack
+*   **Turma:** 01.23
+*   [Link do Repositório GitHub](https://github.com/Lucasph3/Estacio)
